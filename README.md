@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Victor Ezeali
 
-### 🔋 EV & Battery System Analytics
-
 <h3 align="center">🔋 EV & Battery System Analytics</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/EV-Battery.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/mastervicky/mastervicky/main/assets/EV-Battery.png" width="700"/>
 </p>
 
 🔋 Passionate about Electric Mobility/Battery Storage System • 📊 Data Analyst • 🧪 Quality Analyst • 🐍 Python Developer
