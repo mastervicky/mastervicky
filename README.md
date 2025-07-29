@@ -2,9 +2,8 @@
 
 ### 🔋 EV & Battery System Analytics
 
-![EV Battery Data](https://raw.githubusercontent.com/mastervicky/mastervicky/main/images/ev-battery-analytics.png)
+![assets/EV-Battery.png](https://raw.githubusercontent.com/mastervicky/mastervicky/main/images/ev-battery-analytics.png)
 
-assets/EV-Battery.png
 🔋 Passionate about Electric Mobility/Battery Storage System • 📊 Data Analyst • 🧪 Quality Analyst • 🐍 Python Developer
 
 I'm currently building systems that ensure the safety, performance, and reliability of electric motorcycles and battery swap infrastructure across Africa.
