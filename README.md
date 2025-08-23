@@ -29,6 +29,7 @@ I'm currently building systems that ensure the safety, performance, and reliabil
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mastervicky&layout=compact&theme=dark)
 
 ---
 
